@@ -1,0 +1,36 @@
+{
+  "soldat": [
+    {
+      "dribble": 90,
+      "nom": "babas",
+      "passe": 15,
+      "prenom": "seb",
+      "tel": 690305604,
+      "tete": 57,
+      "tir": 78,
+      "vitesse": 4
+    }
+  ],
+  "users": [
+    {
+      "age": 24,
+      "email": "ameraz@email.com",
+      "name": "Alex Meraz"
+    },
+    {
+      "age": 21,
+      "email": "mrafi@email.com",
+      "name": "Mohammed Rafi"
+    },
+    {
+      "age": 31,
+      "email": "rtamil@email.com",
+      "name": "Raja Tamil"
+    },
+    {
+      "age": 21,
+      "email": "spichai@email.com",
+      "name": "Sundar Pichai"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "app": {
+    "session": {
+      "2022": {
+        "06": {
+          "27": {
+            "3b8tjWDLJzXYeZaVd0u2wOCRdcY2": {
+              "displayName": "Richard NIAVET",
+              "score": 10,
+              "words": [
+                "brutalement",
+                "bénéfique"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "trainning": {
+      "level-1": [
+        "acummulation",
+        "caractéristique"
+      ]
+    }
+  },
+  "display": {
+    "timer": {
+      "play": false,
+      "remainingTime": "00:01:00"
+    }
+  },
+  "soldat": [
+    {
+      "dribble": 90,
+      "nom": "babas",
+      "passe": 15,
+      "prenom": "seb",
+      "tel": 690305604,
+      "tete": 57,
+      "tir": 78,
+      "vitesse": 4
+    }
+  ],
+  "timer": {
+    "initialRemainingTime": "00:01:00",
+    "play": false,
+    "remainingTime": "00:01:00"
+  },
+  "users": {
+    "3b8tjWD94598LJaVd0u2wOCRdcY2": {
+      "info": {
+        "active": true,
+        "displayName": "Richard NIAVET",
+        "numberOfSession": 5,
+        "numberOfTryByLevel": {
+          "level-1": 5
+        },
+        "role": "admin",
+        "scoreTotalSession": 80,
+        "scoreTotalTraining": 90
+      },
+      "session": {
+        "12-07-22": {
+          "score": 30,
+          "words": {
+            "accumulation": {
+              "accent": false,
+              "definition": true,
+              "id": "accumulation",
+              "kind": 3,
+              "mistake": 0,
+              "origin": 3,
+              "repeatAfter": true,
+              "repeatBefore": true,
+              "spell": true
+            }
+          }
+        }
+      },
+      "trainning": {
+        "level-1": {
+          "lastScore": 30
+        }
+      }
+    },
+    "3b8tjWDLJzXYeZaVd0u2wOCRdcY2": {
+      "info": {
+        "active": true,
+        "displayName": "Richard test 2",
+        "numberOfSession": 5,
+        "numberOfTryByLevel": {
+          "level-1": 5
+        },
+        "role": "user",
+        "scoreTotalSession": 80,
+        "scoreTotalTraining": 90
+      },
+      "session": {
+        "12-07-22": {
+          "score": 30,
+          "words": {
+            "accumulation": {
+              "accent": false,
+              "definition": true,
+              "id": "accumulation",
+              "kind": 3,
+              "mistake": 0,
+              "origin": 3,
+              "repeatAfter": true,
+              "repeatBefore": true,
+              "spell": true
+            }
+          }
+        }
+      },
+      "trainning": {
+        "level-1": {
+          "lastScore": 30
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "app": {
+    "session": {
+      "2022": {
+        "06": {
+          "27": {
+            "daisy": {
+              "score": 10,
+              "words": {
+                "accumalation": {
+                  "accent": false,
+                  "definition": true,
+                  "kind": 3,
+                  "mistake": 0,
+                  "origin": 3,
+                  "repeatAfter": true,
+                  "repeatBefore": true,
+                  "spell": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "display": {
+    "daisy": {
+      "nickname": "Daisy",
+      "score": 60
+    },
+    "dovani": {
+      "nickname": "Dovani",
+      "score": 70
+    },
+    "zayan": {
+      "nickname": "Zayan",
+      "score": 80
+    }
+  },
+  "soldat": [
+    {
+      "dribble": 90,
+      "nom": "babas",
+      "passe": 15,
+      "prenom": "seb",
+      "tel": 690305604,
+      "tete": 57,
+      "tir": 78,
+      "vitesse": 4
+    }
+  ],
+  "users": [
+    {
+      "age": 24,
+      "email": "ameraz@email.com",
+      "name": "Alex Meraz"
+    },
+    {
+      "age": 21,
+      "email": "mrafi@email.com",
+      "name": "Mohammed Rafi"
+    },
+    {
+      "age": 31,
+      "email": "rtamil@email.com",
+      "name": "Raja Tamil"
+    },
+    {
+      "age": 21,
+      "email": "spichai@email.com",
+      "name": "Sundar Pichai"
+    }
+  ]
+}
